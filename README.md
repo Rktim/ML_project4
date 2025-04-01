@@ -1,5 +1,3 @@
-# Prodigy_ML_04
-
 # Hand Gesture Recognition Using Convolutional Neural Networks
 
 This project aims to recognize hand gestures using a Convolutional Neural Network (CNN) built with Keras and TensorFlow. The model is trained on a dataset of hand gesture images and can predict gestures from new images.
